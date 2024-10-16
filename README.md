@@ -1,15 +1,20 @@
 # Bilimsel Hesap Makinesi
 
-Bu proje, temel matematiksel işlemleri ve bilimsel fonksiyonları gerçekleştiren bir bilimsel hesap makinesi uygulamasıdır. Uygulama, Python ve Tkinter kullanılarak geliştirilmiştir.
+Bu proje, temel matematiksel işlemlerin yanı sıra bilimsel hesaplamalar yapabilen bir hesap makinesi uygulamasıdır. Python kullanılarak geliştirilmiştir.
 
 ## Özellikler
+- Toplama, çıkarma, çarpma, bölme
+- Trigonometrik fonksiyonlar (sin, cos, tan)
+- Logaritmik ve üstel hesaplamalar
+- Kullanıcı dostu arayüz
 
-- Temel aritmetik işlemler (toplama, çıkarma, çarpma, bölme)
-- Bilimsel fonksiyonlar (sinüs, kosinüs, logaritma)
-- Parantez kullanarak karmaşık ifadeleri hesaplama
-- Kullanıcı dostu grafik arayüz
+## Kurulum
+1. Python 3.x yüklü olduğundan emin olun.
+2. Projeyi indirin veya klonlayın.
+3. Terminal veya komut istemcisinde `python bilimsel-hesap-makinesi.py` komutunu çalıştırın.
 
-## Gereksinimler
+## Kullanım
+Uygulamayı başlattıktan sonra, hesaplamak istediğiniz işlemleri seçebilir ve sonuçları görüntüleyebilirsiniz.
 
-- Python 3.x
-- Tkinter kütüphanesi (Python ile birlikte gelir)
+## Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır.
