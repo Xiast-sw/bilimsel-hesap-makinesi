@@ -1,20 +1,20 @@
-# Bilimsel Hesap Makinesi
+# Scientific Calculator
 
-Bu proje, temel matematiksel işlemlerin yanı sıra bilimsel hesaplamalar yapabilen bir hesap makinesi uygulamasıdır. Python kullanılarak geliştirilmiştir.
+This project is a calculator application developed in Python that performs basic mathematical operations as well as scientific calculations.
 
-## Özellikler
-- Toplama, çıkarma, çarpma, bölme
-- Trigonometrik fonksiyonlar (sin, cos, tan)
-- Logaritmik ve üstel hesaplamalar
-- Kullanıcı dostu arayüz
+## Features
+- Addition, subtraction, multiplication, division
+- Trigonometric functions (sin, cos, tan)
+- Logarithmic and exponential calculations
+- User-friendly interface
 
-## Kurulum
-1. Python 3.x yüklü olduğundan emin olun.
-2. Projeyi indirin veya klonlayın.
-3. Terminal veya komut istemcisinde `python bilimsel-hesap-makinesi.py` komutunu çalıştırın.
+## Installation
+1. Ensure that Python 3.x is installed.
+2. Download or clone the project.
+3. Run the command `python scientific-calculator.py` in the terminal or command prompt.
 
-## Kullanım
-Uygulamayı başlattıktan sonra, hesaplamak istediğiniz işlemleri seçebilir ve sonuçları görüntüleyebilirsiniz.
+## Usage
+Once the application is launched, you can select the operations you wish to calculate and view the results.
 
-## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+## License
+This project is licensed under the MIT License.
