@@ -1,5 +1,4 @@
 # Scientific Calculator
-
 This project is a calculator application developed in Python that performs basic mathematical operations as well as scientific calculations.
 
 ## Features
